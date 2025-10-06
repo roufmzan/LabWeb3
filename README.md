@@ -13,7 +13,7 @@
 
 
 **Code**
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,7 +84,7 @@ File utama: `lab3_list.html`
 
 
 **Code**
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -137,7 +137,7 @@ Tujuan dari praktikum ini adalah memahami cara menampilkan data dalam bentuk daf
 
 
 **Code**
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -207,7 +207,7 @@ Tujuan utama dari praktikum ini adalah memahami dan mengimplementasikan berbagai
 
 
 **Code**
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
