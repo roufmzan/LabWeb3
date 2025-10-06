@@ -9,7 +9,8 @@
 
 **1.Membuat dokumen HTML file lab3_list.html**
 
-<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/335c04e3-b073-4719-b3f6-7219bbbf6761" />
+<img width="1440" height="900" alt="Jepretan Layar 2025-10-06 pukul 20 58 06" src="https://github.com/user-attachments/assets/a9159882-e324-40b0-91d9-78a6799d9ab4" />
+
 
 **Code**
 ```
@@ -79,7 +80,8 @@ File utama: `lab3_list.html`
 
 **2.Membuat dokumen HTML file lab3_tabel.html**
 
-<img width="958" height="494" alt="image" src="https://github.com/user-attachments/assets/5774288a-82ee-4697-a7bf-843e4c77bcf2" />
+<img width="1440" height="900" alt="Jepretan Layar 2025-10-06 pukul 20 58 11" src="https://github.com/user-attachments/assets/d881c334-40d5-4235-8b42-db0f2fb1cca4" />
+
 
 **Code**
 ```
@@ -132,7 +134,7 @@ Tujuan dari praktikum ini adalah memahami cara menampilkan data dalam bentuk daf
 
 **3.Membuat dokumen HTML file lab3_form.html**
 
-<img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/5a744d59-4f3e-4a90-acd7-ccfb6f23dcff" />
+
 
 **Code**
 ```
@@ -201,7 +203,8 @@ Tujuan utama dari praktikum ini adalah memahami dan mengimplementasikan berbagai
 
 **1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.**
 
-<img width="958" height="500" alt="image" src="https://github.com/user-attachments/assets/eb8eba71-12b6-4510-b612-381484af6f66" />
+<img width="1440" height="900" alt="Jepretan Layar 2025-10-06 pukul 20 56 32" src="https://github.com/user-attachments/assets/9ef858ca-f5eb-4cc2-8147-7efa11dbdce1" />
+
 
 **Code**
 ```
