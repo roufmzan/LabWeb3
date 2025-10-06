@@ -1,6 +1,11 @@
-# Nama : Felix Amon Sitinjak
-# NIM : 312410063
-# Kelas : TI.24.A1
+# Praktikum 3 : Membuat List, Table dan Form
+
+|                |                    |
+| -------------- | ------------------ |
+|      _Nama_    | RO'UF MUHAMMAD FAUZAN |
+|      _NIM_     |      312410157     |
+|     _Kelas_    |      TI.24.A1      |
+|  _Mata Kuliah_ | Bahasa Pemrograman Web 1 |
 
 **1.Membuat dokumen HTML file lab3_list.html**
 
